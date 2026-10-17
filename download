@@ -1,0 +1,8 @@
+.git
+.gitignore
+.vscode
+README.md
+evidencias
+supabase-setup.sql
+Dockerfile
+.dockerignore
